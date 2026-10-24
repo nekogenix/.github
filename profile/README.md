@@ -16,7 +16,7 @@
     <td align="center">
       <br />
       <strong>Any contribution is welcome, so feel free to join in.</strong><br />
-      <em>We’d be incredibly grateful! ;3</em>
+      We’d be incredibly grateful! ;3
       <br /><br />
     </td>
   </tr>
