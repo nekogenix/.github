@@ -11,6 +11,13 @@
   <a href="https://nekogenix.github.io/wiki/">
     <img src="assets/buttons/wiki.svg" alt="Wiki" />
   </a>
+  <br />
+  <a href="https://github.com/nekogenix/nekogenix-mod/issues">
+    <img src="assets/buttons/mod-issues.svg" alt="Report a mod bug or suggest a feature" />
+  </a>
+  <a href="https://github.com/nekogenix/nekogenix.github.io/issues">
+    <img src="assets/buttons/website-issues.svg" alt="Report a problem with the website or wiki" />
+  </a>
 </p>
 
 <p align="center">
@@ -52,15 +59,4 @@ Pick a vanilla cat coat or import your own skin. Your choice also changes the ea
 
 <p align="center">
   <img src="assets/skins.gif" alt="Choosing and previewing cat skins in the in-game skin menu" width="640" />
-</p>
-
-<h2><img src="assets/icons/bug.svg" width="28" height="28" alt="" /> Bugs and ideas</h2>
-
-<p>
-  <a href="https://github.com/nekogenix/nekogenix-mod/issues">
-    <img src="assets/buttons/mod-issues.svg" alt="Report a mod bug or suggest a feature" />
-  </a>
-  <a href="https://github.com/nekogenix/nekogenix.github.io/issues">
-    <img src="assets/buttons/website-issues.svg" alt="Report a problem with the website or wiki" />
-  </a>
 </p>
